@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="discard_reminder" type="id"/>
+    <item name="save_reminder" type="id"/>
+    <item name="empty_view" type="id"/>
+    <item name="tabLayout" type="id"/>
+</resources>
